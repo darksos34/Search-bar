@@ -20,7 +20,7 @@ React-Hook
 
 
 # Back-end
-Java FX  ( will be version 14)
+Java  ( will be version 14)
 
 Spring boot
 
