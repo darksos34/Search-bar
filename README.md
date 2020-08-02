@@ -4,7 +4,7 @@ Tutorial search bar react.
 
 Created 16-06-2020
 
-Updated 10-07-2020
+Updated 02-08-2020
 
 
 
