@@ -9,13 +9,19 @@ Updated 19-09-2020
 
 
 
-# Boulding my own react component from scratch.
-
-Front-end 
+# Front-end
 HTML
 CSS6
 Javascript 
 React-Hook
+
+# Security Update Github BOT
+
+``npm i node-forge``
+
+[node-forge](https://www.npmjs.com/package/node-forge)
+
+vulnerability found in client/package-lock.json 
 
 
 
@@ -23,9 +29,3 @@ React-Hook
 Java  ( will be version 14)
 
 Spring boot
-
-# Security Update Github BOT
-
-npm i node-forge
-
-- vulnerability found in client/package-lock.json 
