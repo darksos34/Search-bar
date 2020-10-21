@@ -11,6 +11,9 @@ update on 21-10-2020 Client side
 - security update frontend
 - npm i object-path
 
+added latest version react-scripts@3.4.4
+
+
 
 
 # Front-end
