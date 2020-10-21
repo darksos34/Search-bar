@@ -6,12 +6,12 @@ Created 16-06-2020
 
 Updated 21-10-2020 
 
-update on 21-10-2020 Client side
-#Security Update
+# Security Update  on 21-10-2020
 - security update frontend
 - npm i object-path
+- npm i react-scripts@3.4.4
 
-added latest version react-scripts@3.4.4
+
 
 
 
