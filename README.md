@@ -4,8 +4,12 @@ Tutorial search bar react.
 
 Created 16-06-2020
 
-Updated 19-09-2020
+Updated 21-10-2020 
 
+update on 21-10-2020 Client side
+#Security Update
+- security update frontend
+- npm i object-path
 
 
 
