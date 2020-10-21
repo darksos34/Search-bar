@@ -107,3 +107,4 @@ dist
 #IntelliJ IDEA 2020
 .idea
 Search-bar.zip
+package-lock.json
